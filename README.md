@@ -13,8 +13,8 @@ I like to play with software.
 </picture>
 ](https://github.com/anuraghazra/github-readme-stats)
 
-#### Highlights
 ---
+#### Highlights
 [<picture title="Polybius Arcade Fan Game">
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=MikeSemicolonD&repo=Polybius_Arcade_Fan_Game&theme=github_dark&hide_border=true&card_width=800"
