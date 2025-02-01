@@ -1,4 +1,9 @@
 ### *- Mike* :D
+Full Stack Dev. / Unity Developer
+
+I like to play with software.
+
+---
 [<picture title="Most Used Languages">
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSemicolonD&layout=compact&theme=github_dark"
@@ -8,7 +13,8 @@
 </picture>
 ](https://github.com/anuraghazra/github-readme-stats)
 
-#### Pinned
+#### Highlights
+---
 [<picture title="Polybius Arcade Fan Game">
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=MikeSemicolonD&repo=Polybius_Arcade_Fan_Game&theme=github_dark&hide_border=true&card_width=800"
