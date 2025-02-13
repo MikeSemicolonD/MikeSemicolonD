@@ -20,7 +20,7 @@ I like to play with software.
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=MikeSemicolonD&repo=Polybius_Arcade_Fan_Game&theme=github_dark&hide_border=true&card_width=800"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSemicolonD&repo=Polybius_Arcade_Fan_Game&theme=default_repocard&card_width=800" alt="Polybius Arcade Fan Game Repository" />
+    <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=MikeSemicolonD&repo=Polybius_Arcade_Fan_Game&theme=default_repocard&card_width=800" alt="Polybius Arcade Fan Game Repository" />
 </picture>
 ](https://github.com/MikeSemicolonD/Polybius_Arcade_Fan_Game)
 [<picture title="Random Star Trek Media Picker">
@@ -28,7 +28,7 @@ I like to play with software.
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=MikeSemicolonD&repo=Random_Star_Trek_Media_Picker&theme=github_dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSemicolonD&repo=Random_Star_Trek_Media_Picker&theme=default_repocard" alt="Random Star Trek Media Picker Repository" />
+    <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=MikeSemicolonD&repo=Random_Star_Trek_Media_Picker&theme=default_repocard" alt="Random Star Trek Media Picker Repository" />
 </picture>
 ](https://github.com/MikeSemicolonD/Random_Star_Trek_Media_Picker)
 
@@ -37,7 +37,7 @@ I like to play with software.
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=MikeSemicolonD&repo=SimpleTimeCruncher&theme=github_dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSemicolonD&repo=SimpleTimeCruncher&theme=default_repocard" alt="SimpleTimeCruncher Repository" />
+    <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=MikeSemicolonD&repo=SimpleTimeCruncher&theme=default_repocard" alt="SimpleTimeCruncher Repository" />
 </picture>
 ](https://github.com/MikeSemicolonD/SimpleTimeCruncher)
 [<picture title="WhatsThisHTTPStatusCode">
@@ -45,6 +45,6 @@ I like to play with software.
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=MikeSemicolonD&repo=WhatsThisHTTPStatusCode&theme=github_dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSemicolonD&repo=WhatsThisHTTPStatusCode&theme=default_repocard" alt="WhatsThisHTTPStatusCode Repository" />
+    <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=MikeSemicolonD&repo=WhatsThisHTTPStatusCode&theme=default_repocard" alt="WhatsThisHTTPStatusCode Repository" />
 </picture>
 ](https://github.com/MikeSemicolonD/WhatsThisHTTPStatusCode)
