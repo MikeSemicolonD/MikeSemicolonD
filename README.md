@@ -20,7 +20,8 @@ I like to play with games and software in general.
     <img align="top" width=400 src="https://github-readme-steam-card.vercel.app/status/?steamid=76561197996483117&show_in_game_bg=false&show_recent_game_bg=true" alt="MikeSemicolonD's Steam Profile" />
 </picture>
 ](https://steamcommunity.com/id/AlphaMyso/)
-&nbsp;&nbsp;&nbsp;&nbsp;[<picture title="Top 1 Language/Tool">
+
+[<picture title="Top 1 Language/Tool">
     <source
       srcset="https://skillicons.dev/icons?i=ts&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -54,6 +55,76 @@ I like to play with games and software in general.
       media="(prefers-color-scheme: dark)"
     />
     <img align="top" src="https://skillicons.dev/icons?i=angular&theme=light" alt="MikeSemicolonD's Top 5 Language/Tool" />
+</picture>
+<picture title="Top 6 Language/Tool">
+    <source
+      srcset="https://skillicons.dev/icons?i=aws&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="top" src="https://skillicons.dev/icons?i=aws&theme=light" alt="MikeSemicolonD's Top 6 Language/Tool" />
+</picture>
+<picture title="Top 7 Language/Tool">
+    <source
+      srcset="https://skillicons.dev/icons?i=unity&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="top" src="https://skillicons.dev/icons?i=unity&theme=light" alt="MikeSemicolonD's Top 7 Language/Tool" />
+</picture>
+<picture title="Top 8 Language/Tool">
+    <source
+      srcset="https://skillicons.dev/icons?i=git&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="top" src="https://skillicons.dev/icons?i=git&theme=light" alt="MikeSemicolonD's Top 8 Language/Tool" />
+</picture>
+<picture title="Top 9 Language/Tool">
+    <source
+      srcset="https://skillicons.dev/icons?i=html&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="top" src="https://skillicons.dev/icons?i=html&theme=light" alt="MikeSemicolonD's Top 9 Language/Tool" />
+</picture>
+<picture title="Top 10 Language/Tool">
+    <source
+      srcset="https://skillicons.dev/icons?i=sass&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="top" src="https://skillicons.dev/icons?i=sass&theme=light" alt="MikeSemicolonD's Top 10 Language/Tool" />
+</picture>
+<picture title="Top 11 Language/Tool">
+    <source
+      srcset="https://skillicons.dev/icons?i=githubactions&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="top" src="https://skillicons.dev/icons?i=githubactions&theme=light" alt="MikeSemicolonD's Top 11 Language/Tool" />
+</picture>
+<picture title="Top 12 Language/Tool">
+    <source
+      srcset="https://skillicons.dev/icons?i=mysql&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="top" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MikeSemicolonD's Top 12 Language/Tool" />
+</picture>
+<picture title="Top 13 Language/Tool">
+    <source
+      srcset="https://skillicons.dev/icons?i=webstorm&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="top" src="https://skillicons.dev/icons?i=webstorm&theme=light" alt="MikeSemicolonD's Top 13 Language/Tool" />
+</picture>
+<picture title="Top 14 Language/Tool">
+    <source
+      srcset="https://skillicons.dev/icons?i=vscode&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="top" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="MikeSemicolonD's Top 14 Language/Tool" />
+</picture>
+<picture title="Top 15 Language/Tool">
+    <source
+      srcset="https://skillicons.dev/icons?i=visualstudio&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="top" src="https://skillicons.dev/icons?i=visualstudio&theme=light" alt="MikeSemicolonD's Top 15 Language/Tool" />
 </picture>
 ](https://skillicons.dev)
 
