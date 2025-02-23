@@ -1,4 +1,4 @@
-### *- Mike* :D
+### Mike ;D
 Full Stack Dev. / Unity Developer
 
 I like to play with software.
