@@ -105,12 +105,12 @@ I like to play with games and software in general.
     />
     <img align="top" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MikeSemicolonD's Top 12 Language/Tool (MySQL)" />
 </picture>
-<picture title="Top 13 Language/Tool (Webstorm)">
+<picture title="Top 13 Language/Tool (WebStorm)">
     <source
       srcset="https://skillicons.dev/icons?i=webstorm&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=webstorm&theme=light" alt="MikeSemicolonD's Top 13 Language/Tool (Webstorm)" />
+    <img align="top" src="https://skillicons.dev/icons?i=webstorm&theme=light" alt="MikeSemicolonD's Top 13 Language/Tool (WebStorm)" />
 </picture>
 <picture title="Top 14 Language/Tool (VS Code)">
     <source
