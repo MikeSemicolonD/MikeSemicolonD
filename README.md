@@ -1,7 +1,7 @@
 ### [Mike ;D](https://mikesemicolond.github.io/)
-Full Stack Dev. / Unity Developer
+Software Generalist / Unity Developer / Full Stack Developer
 
-I like to play with games and software in general.
+I like to play with games and software.
 
 ---
 [<picture title="Most Used Languages (Displaying only Public Repos)">
@@ -21,12 +21,12 @@ I like to play with games and software in general.
 </picture>
 ](https://steamcommunity.com/id/AlphaMyso/)
 
-[<picture title="Top 1 Language/Tool (TypeScript)">
+[<picture title="Top 1 Language/Tool (Unity)">
     <source
-      srcset="https://skillicons.dev/icons?i=ts&theme=dark"
+      srcset="https://skillicons.dev/icons?i=unity&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=ts&theme=light" alt="MikeSemicolonD's Top 1 Language/Tool (TypeScript)" />
+    <img align="top" src="https://skillicons.dev/icons?i=unity&theme=light" alt="MikeSemicolonD's Top 1 Language/Tool (Unity)" />
 </picture>
 <picture title="Top 2 Language/Tool (C#)">
     <source
@@ -42,47 +42,47 @@ I like to play with games and software in general.
     />
     <img align="top" src="https://skillicons.dev/icons?i=dotnet&theme=light" alt="MikeSemicolonD's Top 3 Language/Tool (.NET)" />
 </picture>
-<picture title="Top 4 Language/Tool (Python)">
-    <source
-      srcset="https://skillicons.dev/icons?i=py&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img align="top" src="https://skillicons.dev/icons?i=py&theme=light" alt="MikeSemicolonD's Top 4 Language/Tool (Python)" />
-</picture>
-<picture title="Top 5 Language/Tool (Angular 9+)">
-    <source
-      srcset="https://skillicons.dev/icons?i=angular&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img align="top" src="https://skillicons.dev/icons?i=angular&theme=light" alt="MikeSemicolonD's Top 5 Language/Tool (Angular 9+)" />
-</picture>
-<picture title="Top 6 Language/Tool (AWS)">
-    <source
-      srcset="https://skillicons.dev/icons?i=aws&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img align="top" src="https://skillicons.dev/icons?i=aws&theme=light" alt="MikeSemicolonD's Top 6 Language/Tool (AWS)" />
-</picture>
-<picture title="Top 7 Language/Tool (Unity)">
-    <source
-      srcset="https://skillicons.dev/icons?i=unity&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img align="top" src="https://skillicons.dev/icons?i=unity&theme=light" alt="MikeSemicolonD's Top 7 Language/Tool (Unity)" />
-</picture>
-<picture title="Top 8 Language/Tool (Git)">
+<picture title="Top 4 Language/Tool (Git)">
     <source
       srcset="https://skillicons.dev/icons?i=git&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=git&theme=light" alt="MikeSemicolonD's Top 8 Language/Tool (Git)" />
+    <img align="top" src="https://skillicons.dev/icons?i=git&theme=light" alt="MikeSemicolonD's Top 4 Language/Tool (Git)" />
 </picture>
-<picture title="Top 9 Language/Tool (HTML)">
+<picture title="Top 5 Language/Tool (HTML)">
     <source
       srcset="https://skillicons.dev/icons?i=html&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=html&theme=light" alt="MikeSemicolonD's Top 9 Language/Tool (HTML)" />
+    <img align="top" src="https://skillicons.dev/icons?i=html&theme=light" alt="MikeSemicolonD's Top 5 Language/Tool (HTML)" />
+</picture>
+<picture title="Top 6 Language/Tool (TypeScript)">
+    <source
+      srcset="https://skillicons.dev/icons?i=ts&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="top" src="https://skillicons.dev/icons?i=ts&theme=light" alt="MikeSemicolonD's Top 6 Language/Tool (TypeScript)" />
+</picture>
+<picture title="Top 7 Language/Tool (Angular 9+)">
+    <source
+      srcset="https://skillicons.dev/icons?i=angular&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="top" src="https://skillicons.dev/icons?i=angular&theme=light" alt="MikeSemicolonD's Top 7 Language/Tool (Angular 9+)" />
+</picture>
+<picture title="Top 8 Language/Tool (Python)">
+    <source
+      srcset="https://skillicons.dev/icons?i=py&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="top" src="https://skillicons.dev/icons?i=py&theme=light" alt="MikeSemicolonD's Top 8 Language/Tool (Python)" />
+</picture>
+<picture title="Top 9 Language/Tool (AWS)">
+    <source
+      srcset="https://skillicons.dev/icons?i=aws&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="top" src="https://skillicons.dev/icons?i=aws&theme=light" alt="MikeSemicolonD's Top 9 Language/Tool (AWS)" />
 </picture>
 <picture title="Top 10 Language/Tool (SASS)">
     <source
