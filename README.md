@@ -4,14 +4,6 @@ Software Generalist / Unity Developer / Full Stack Developer
 I like to play with games and software.
 
 ---
-[<picture title="Most Used Languages (Displaying only Public Repos)">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSemicolonD&layout=compact&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSemicolonD&layout=compact" alt="Stats on MikeSemicolonD's 'Most Used Languages'" />
-</picture>
-](https://github.com/anuraghazra/github-readme-stats)
 
 [<picture title="Top 1 Language/Tool (Unity)">
     <source
