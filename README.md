@@ -116,34 +116,34 @@ I like to play with games and software.
 #### Highlights
 [<picture title="Polybius Arcade Fan Game">
     <source
-      srcset="https://githubcard.com/MikeSemicolonD/Polybius_Arcade_Fan_Game.svg?d=00B3gksg"
+      srcset="https://mikesemicolond.github.io/assets/images/external/firstHighlight-dark.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="center" width=400 src="https://githubcard.com/MikeSemicolonD/Polybius_Arcade_Fan_Game.svg?d=LXRZRflS" alt="Polybius Arcade Fan Game Repository" />
+    <img align="center" width=400 src="https://mikesemicolond.github.io/assets/images/external/firstHighlight-light.svg" alt="Polybius Arcade Fan Game Repository" />
 </picture>
 ](https://github.com/MikeSemicolonD/Polybius_Arcade_Fan_Game)
 [<picture title="Random Star Trek Media Picker">
     <source
-      srcset="https://githubcard.com/MikeSemicolonD/Random_Star_Trek_Media_Picker.svg?d=cVifBWIc"
+      srcset="https://mikesemicolond.github.io/assets/images/external/secondHighlight-dark.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="center" width=400 src="https://githubcard.com/MikeSemicolonD/Random_Star_Trek_Media_Picker.svg?d=w_136-qW" alt="Random Star Trek Media Picker Repository" />
+    <img align="center" width=400 src="https://mikesemicolond.github.io/assets/images/external/secondHighlight-light.svg" alt="Random Star Trek Media Picker Repository" />
 </picture>
 ](https://github.com/MikeSemicolonD/Random_Star_Trek_Media_Picker)
 
 [<picture title="SimpleTimeCruncher">
     <source
-      srcset="https://githubcard.com/MikeSemicolonD/SimpleTimeCruncher.svg?d=W5E6sQCd"
+      srcset="https://mikesemicolond.github.io/assets/images/external/thirdHighlight-dark.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="center" width=400 src="https://githubcard.com/MikeSemicolonD/SimpleTimeCruncher.svg?d=wLz-LDko" alt="SimpleTimeCruncher Repository" />
+    <img align="center" width=400 src="https://mikesemicolond.github.io/assets/images/external/thirdHighlight-light.svg" alt="SimpleTimeCruncher Repository" />
 </picture>
 ](https://github.com/MikeSemicolonD/SimpleTimeCruncher)
 [<picture title="WhatsThisHTTPStatusCode">
     <source
-      srcset="https://githubcard.com/MikeSemicolonD/WhatsThisHTTPStatusCode.svg?d=VmpfvIOo"
+      srcset="https://mikesemicolond.github.io/assets/images/external/fourthHighlight-dark.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="center" width=400 src="https://githubcard.com/MikeSemicolonD/WhatsThisHTTPStatusCode.svg?d=Txawma7M" alt="WhatsThisHTTPStatusCode Repository" />
+    <img align="center" width=400 src="https://mikesemicolond.github.io/assets/images/external/fourthHighlight-light.svg" alt="WhatsThisHTTPStatusCode Repository" />
 </picture>
 ](https://github.com/MikeSemicolonD/WhatsThisHTTPStatusCode)
