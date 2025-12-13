@@ -1,5 +1,5 @@
 ### [Mike ;D](https://mikesemicolond.github.io/)
-Software Generalist / Unity Developer / Full Stack Developer
+Software Generalist / Game Developer / Full Stack Developer
 
 I like to play with games and software.
 
