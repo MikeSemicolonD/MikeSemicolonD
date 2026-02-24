@@ -7,108 +7,108 @@ I like to play with games and software.
 
 <picture title="Top 1 Language/Tool (Unity)">
     <source
-      srcset="https://skillicons.dev/icons?i=unity&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/unity.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=unity&theme=light" alt="MikeSemicolonD's Top 1 Language/Tool (Unity)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/light/unity.svg" alt="MikeSemicolonD's Top 1 Language/Tool (Unity)" />
 </picture>
 <picture title="Top 2 Language/Tool (C#)">
     <source
-      srcset="https://skillicons.dev/icons?i=cs&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/csharp.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=cs&theme=light" alt="MikeSemicolonD's Top 2 Language/Tool (C#)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/dark/csharp.svg" alt="MikeSemicolonD's Top 2 Language/Tool (C#)" />
 </picture>
 <picture title="Top 3 Language/Tool (.NET)">
     <source
-      srcset="https://skillicons.dev/icons?i=dotnet&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/dotNet.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=dotnet&theme=light" alt="MikeSemicolonD's Top 3 Language/Tool (.NET)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/dark/dotNet.svg" alt="MikeSemicolonD's Top 3 Language/Tool (.NET)" />
 </picture>
 <picture title="Top 4 Language/Tool (Git)">
     <source
-      srcset="https://skillicons.dev/icons?i=git&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/git.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=git&theme=light" alt="MikeSemicolonD's Top 4 Language/Tool (Git)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/dark/git.svg" alt="MikeSemicolonD's Top 4 Language/Tool (Git)" />
 </picture>
 <picture title="Top 5 Language/Tool (HTML)">
     <source
-      srcset="https://skillicons.dev/icons?i=html&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/html5.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=html&theme=light" alt="MikeSemicolonD's Top 5 Language/Tool (HTML)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/dark/html5.svg" alt="MikeSemicolonD's Top 5 Language/Tool (HTML)" />
 </picture>
 <picture title="Top 6 Language/Tool (TypeScript)">
     <source
-      srcset="https://skillicons.dev/icons?i=ts&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/typescript.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=ts&theme=light" alt="MikeSemicolonD's Top 6 Language/Tool (TypeScript)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/dark/typescript.svg" alt="MikeSemicolonD's Top 6 Language/Tool (TypeScript)" />
 </picture>
 <picture title="Top 7 Language/Tool (Angular 9+)">
     <source
-      srcset="https://skillicons.dev/icons?i=angular&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/angular.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=angular&theme=light" alt="MikeSemicolonD's Top 7 Language/Tool (Angular 9+)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/light/typescript.svg" alt="MikeSemicolonD's Top 7 Language/Tool (Angular 9+)" />
 </picture>
 <picture title="Top 8 Language/Tool (Python)">
     <source
-      srcset="https://skillicons.dev/icons?i=py&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/python.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=py&theme=light" alt="MikeSemicolonD's Top 8 Language/Tool (Python)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/light/python.svg" alt="MikeSemicolonD's Top 8 Language/Tool (Python)" />
 </picture>
 <picture title="Top 9 Language/Tool (AWS)">
     <source
-      srcset="https://skillicons.dev/icons?i=aws&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/aws.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=aws&theme=light" alt="MikeSemicolonD's Top 9 Language/Tool (AWS)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/light/aws.svg" alt="MikeSemicolonD's Top 9 Language/Tool (AWS)" />
 </picture>
 <picture title="Top 10 Language/Tool (SASS)">
     <source
-      srcset="https://skillicons.dev/icons?i=sass&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/sass.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=sass&theme=light" alt="MikeSemicolonD's Top 10 Language/Tool (SASS)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/dark/sass.svg" alt="MikeSemicolonD's Top 10 Language/Tool (SASS)" />
 </picture>
 <picture title="Top 11 Language/Tool (Github Actions)">
     <source
-      srcset="https://skillicons.dev/icons?i=githubactions&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/githubActions.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=githubactions&theme=light" alt="MikeSemicolonD's Top 11 Language/Tool (Github Actions)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/light/githubActions.svg" alt="MikeSemicolonD's Top 11 Language/Tool (Github Actions)" />
 </picture>
 <picture title="Top 12 Language/Tool (MySQL)">
     <source
-      srcset="https://skillicons.dev/icons?i=mysql&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/mysql.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MikeSemicolonD's Top 12 Language/Tool (MySQL)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/light/mysql.svg" alt="MikeSemicolonD's Top 12 Language/Tool (MySQL)" />
 </picture>
 <picture title="Top 13 Language/Tool (WebStorm)">
     <source
-      srcset="https://skillicons.dev/icons?i=webstorm&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/webstorm.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=webstorm&theme=light" alt="MikeSemicolonD's Top 13 Language/Tool (WebStorm)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/light/webstorm.svg" alt="MikeSemicolonD's Top 13 Language/Tool (WebStorm)" />
 </picture>
 <picture title="Top 14 Language/Tool (VS Code)">
     <source
-      srcset="https://skillicons.dev/icons?i=vscode&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/vsCode.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="MikeSemicolonD's Top 14 Language/Tool (VS Code)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/light/vsCode.svg" alt="MikeSemicolonD's Top 14 Language/Tool (VS Code)" />
 </picture>
 <picture title="Top 15 Language/Tool (Visual Studio)">
     <source
-      srcset="https://skillicons.dev/icons?i=visualstudio&theme=dark"
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/visualstudio.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="top" src="https://skillicons.dev/icons?i=visualstudio&theme=light" alt="MikeSemicolonD's Top 15 Language/Tool (Visual Studio)" />
+    <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/light/visualstudio.svg" alt="MikeSemicolonD's Top 15 Language/Tool (Visual Studio)" />
 </picture>
 
 ---
