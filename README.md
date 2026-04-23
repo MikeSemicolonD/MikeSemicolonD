@@ -115,7 +115,7 @@ I like to play with games and software.
       srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/claudeai.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img align="center" width="5%" src="https://mikesemicolond.github.io/assets/images/external/skills/light/claudeai.svg" alt="MikeSemicolonD's Top 16 Language/Tool (Claude)" />
+    <img align="center" width="48px" src="https://mikesemicolond.github.io/assets/images/external/skills/light/claudeai.svg" alt="MikeSemicolonD's Top 16 Language/Tool (Claude)" />
 </picture>
 
 ---
