@@ -110,6 +110,13 @@ I like to play with games and software.
     />
     <img align="top" src="https://mikesemicolond.github.io/assets/images/external/skills/light/visualstudio.svg" alt="MikeSemicolonD's Top 15 Language/Tool (Visual Studio)" />
 </picture>
+<picture title="Top 16 Language/Tool (Claude)">
+    <source
+      srcset="https://mikesemicolond.github.io/assets/images/external/skills/dark/claudeai.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="center" width="5%" src="https://mikesemicolond.github.io/assets/images/external/skills/light/claudeai.svg" alt="MikeSemicolonD's Top 16 Language/Tool (Claude)" />
+</picture>
 
 ---
 #### Highlights
