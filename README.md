@@ -1,5 +1,7 @@
-### [Mike ;D](https://mikesemicolond.github.io/)
-Software Generalist / Game Developer / Full Stack Developer
+<div align="center">
+
+## [Mike ;D](https://mikesemicolond.github.io/)
+Software Generalist 👨‍💻 / Game Developer 🎮 / Full Stack Developer 🌐
 
 I like to play with games and software.
 
@@ -148,3 +150,5 @@ I like to play with games and software.
     />
     <img align="center" width=400 src="https://mikesemicolond.github.io/assets/images/external/fourthHighlight-light.svg" alt="WhatsThisHTTPStatusCode Repository" />
 </picture>](https://github.com/MikeSemicolonD/WhatsThisHTTPStatusCode)
+
+</div>
